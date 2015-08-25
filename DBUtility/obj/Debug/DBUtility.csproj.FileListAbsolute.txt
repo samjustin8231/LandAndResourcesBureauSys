@@ -1,0 +1,9 @@
+D:\workspaces\LandAndResourcesBureauSys\DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+D:\workspaces\LandAndResourcesBureauSys\DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+D:\workspaces\LandAndResourcesBureauSys\DBUtility\bin\Debug\IBatisNet.Common.dll
+D:\workspaces\LandAndResourcesBureauSys\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+D:\workspaces\LandAndResourcesBureauSys\DBUtility\bin\Debug\MySql.Data.dll
+D:\workspaces\LandAndResourcesBureauSys\DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\workspaces\LandAndResourcesBureauSys\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\workspaces\LandAndResourcesBureauSys\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+D:\workspaces\LandAndResourcesBureauSys\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb

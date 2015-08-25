@@ -1,0 +1,4 @@
+D:\workspaces\LandAndResourcesBureauSys\Model\bin\Debug\Maticsoft.Model.dll
+D:\workspaces\LandAndResourcesBureauSys\Model\bin\Debug\Maticsoft.Model.pdb
+D:\workspaces\LandAndResourcesBureauSys\Model\obj\Debug\Maticsoft.Model.dll
+D:\workspaces\LandAndResourcesBureauSys\Model\obj\Debug\Maticsoft.Model.pdb

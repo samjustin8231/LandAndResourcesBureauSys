@@ -1,0 +1,9 @@
+D:\workspaces\LandAndResourcesBureauSys\Common\bin\Debug\Maticsoft.Common.dll
+D:\workspaces\LandAndResourcesBureauSys\Common\bin\Debug\Maticsoft.Common.pdb
+D:\workspaces\LandAndResourcesBureauSys\Common\bin\Debug\COM.Excel.dll
+D:\workspaces\LandAndResourcesBureauSys\Common\bin\Debug\Excel.dll
+D:\workspaces\LandAndResourcesBureauSys\Common\bin\Debug\OpenSmtp.dll
+D:\workspaces\LandAndResourcesBureauSys\Common\bin\Debug\OWC10Chart.dll
+D:\workspaces\LandAndResourcesBureauSys\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\workspaces\LandAndResourcesBureauSys\Common\obj\Debug\Maticsoft.Common.dll
+D:\workspaces\LandAndResourcesBureauSys\Common\obj\Debug\Maticsoft.Common.pdb
